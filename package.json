@@ -1,0 +1,23 @@
+{
+  "name": "simple-sum-calculator",
+  "version": "0.1.0",
+  "description": "Sum 2 integer numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoAmaral/simple-calculator.git"
+  },
+  "keywords": [
+    "sum",
+    "addition"
+  ],
+  "author": "renato.amaral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RenatoAmaral/simple-calculator/issues"
+  },
+  "homepage": "https://github.com/RenatoAmaral/simple-calculator#readme"
+}

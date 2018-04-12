@@ -1,8 +1,8 @@
 Quickstart
 
-npm i simple-calculator
+npm i simple-sum-calculator
 
-const circles = require('simple-calculator);
+const sum = require('simple-sum-calculator');
 
 ## Use
 
